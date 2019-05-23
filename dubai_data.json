@@ -1,0 +1,4016 @@
+[
+ {
+   "country": "ae",
+   "city": "abu dabi",
+   "Accentcity": "Abu Dabi",
+   "region": 1,
+   "population": null,
+   "lat": 24.466667,
+   "lng": 54.366667
+ },
+ {
+   "country": "ae",
+   "city": "abu dhabi",
+   "Accentcity": "Abu Dhabi",
+   "region": 1,
+   "population": 603687,
+   "lat": 24.466667,
+   "lng": 54.366667
+ },
+ {
+   "country": "ae",
+   "city": "abu hail",
+   "Accentcity": "Abu Hail",
+   "region": 3,
+   "population": null,
+   "lat": 25.285475,
+   "lng": 55.329611
+ },
+ {
+   "country": "ae",
+   "city": "abu zabi",
+   "Accentcity": "Abu Zabi",
+   "region": 1,
+   "population": null,
+   "lat": 24.466667,
+   "lng": 54.366667
+ },
+ {
+   "country": "ae",
+   "city": "abu zabye",
+   "Accentcity": "Abu Zabye",
+   "region": 1,
+   "population": null,
+   "lat": 24.466667,
+   "lng": 54.366667
+ },
+ {
+   "country": "ae",
+   "city": "abu zabyo",
+   "Accentcity": "Abu Zabyo",
+   "region": 1,
+   "population": null,
+   "lat": 24.466667,
+   "lng": 54.366667
+ },
+ {
+   "country": "ae",
+   "city": "ad dharbaniya",
+   "Accentcity": "Ad Dharbaniya",
+   "region": 5,
+   "population": null,
+   "lat": 25.783333,
+   "lng": 55.933333
+ },
+ {
+   "country": "ae",
+   "city": "adgat",
+   "Accentcity": "Adgat",
+   "region": 4,
+   "population": null,
+   "lat": 25.498669,
+   "lng": 56.358302
+ },
+ {
+   "country": "ae",
+   "city": "adh dhaid",
+   "Accentcity": "Adh Dhaid",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "adhin",
+   "Accentcity": "Adhin",
+   "region": 5,
+   "population": null,
+   "lat": 25.460122,
+   "lng": 56.012562
+ },
+ {
+   "country": "ae",
+   "city": "afarah",
+   "Accentcity": "Afarah",
+   "region": 4,
+   "population": null,
+   "lat": 25.041055,
+   "lng": 56.314853
+ },
+ {
+   "country": "ae",
+   "city": "`ain",
+   "Accentcity": "`Ain",
+   "region": 1,
+   "population": null,
+   "lat": 24.212717,
+   "lng": 55.783488
+ },
+ {
+   "country": "ae",
+   "city": "ain al ghamur",
+   "Accentcity": "Ain al Ghamur",
+   "region": 6,
+   "population": null,
+   "lat": 24.959508,
+   "lng": 56.315852
+ },
+ {
+   "country": "ae",
+   "city": "`ain dhawahir",
+   "Accentcity": "`Ain Dhawahir",
+   "region": 1,
+   "population": null,
+   "lat": 24.212717,
+   "lng": 55.783488
+ },
+ {
+   "country": "ae",
+   "city": "ajima",
+   "Accentcity": "Ajima",
+   "region": 5,
+   "population": null,
+   "lat": 25.398308,
+   "lng": 56.150726
+ },
+ {
+   "country": "ae",
+   "city": "akamiya",
+   "Accentcity": "Akamiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.600312,
+   "lng": 56.269097
+ },
+ {
+   "country": "ae",
+   "city": "al abadilah",
+   "Accentcity": "Al Abadilah",
+   "region": 4,
+   "population": null,
+   "lat": 25.453529,
+   "lng": 56.18991
+ },
+ {
+   "country": "ae",
+   "city": "al ain",
+   "Accentcity": "Al Ain",
+   "region": 1,
+   "population": null,
+   "lat": 24.191667,
+   "lng": 55.760556
+ },
+ {
+   "country": "ae",
+   "city": "al ajman",
+   "Accentcity": "Al Ajman",
+   "region": 2,
+   "population": null,
+   "lat": 25.406942,
+   "lng": 55.444126
+ },
+ {
+   "country": "ae",
+   "city": "al `ayn",
+   "Accentcity": "Al `Ayn",
+   "region": 6,
+   "population": null,
+   "lat": 24.959508,
+   "lng": 56.315852
+ },
+ {
+   "country": "ae",
+   "city": "al `ayn al ghamur",
+   "Accentcity": "Al `Ayn al Ghamur",
+   "region": 6,
+   "population": null,
+   "lat": 24.959508,
+   "lng": 56.315852
+ },
+ {
+   "country": "ae",
+   "city": "al badiyah",
+   "Accentcity": "Al Badiyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "al bithnah",
+   "Accentcity": "Al Bithnah",
+   "region": 4,
+   "population": null,
+   "lat": 25.189507,
+   "lng": 56.235157
+ },
+ {
+   "country": "ae",
+   "city": "al daid",
+   "Accentcity": "Al Daid",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "al-dhayd",
+   "Accentcity": "Al-Dhayd",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "al dini",
+   "Accentcity": "Al Dini",
+   "region": 7,
+   "population": null,
+   "lat": 25.932264,
+   "lng": 56.405128
+ },
+ {
+   "country": "ae",
+   "city": "al duss",
+   "Accentcity": "Al Duss",
+   "region": 7,
+   "population": null,
+   "lat": 25.907278,
+   "lng": 56.393
+ },
+ {
+   "country": "ae",
+   "city": "al fai",
+   "Accentcity": "Al Fai",
+   "region": 5,
+   "population": null,
+   "lat": 26.021389,
+   "lng": 56.091389
+ },
+ {
+   "country": "ae",
+   "city": "al fiyya",
+   "Accentcity": "Al Fiyya",
+   "region": 1,
+   "population": null,
+   "lat": 24.298014,
+   "lng": 53.211395
+ },
+ {
+   "country": "ae",
+   "city": "al-fudjayra",
+   "Accentcity": "Al-Fudjayra",
+   "region": 4,
+   "population": null,
+   "lat": 25.116412,
+   "lng": 56.341408
+ },
+ {
+   "country": "ae",
+   "city": "al fuqait",
+   "Accentcity": "Al Fuqait",
+   "region": 4,
+   "population": null,
+   "lat": 25.599658,
+   "lng": 56.342487
+ },
+ {
+   "country": "ae",
+   "city": "al fuyay'",
+   "Accentcity": "Al Fuyay'",
+   "region": 1,
+   "population": null,
+   "lat": 24.298014,
+   "lng": 53.211395
+ },
+ {
+   "country": "ae",
+   "city": "al-ghil",
+   "Accentcity": "Al-Ghil",
+   "region": 5,
+   "population": null,
+   "lat": 25.401739,
+   "lng": 56.068063
+ },
+ {
+   "country": "ae",
+   "city": "algida",
+   "Accentcity": "Algida",
+   "region": 5,
+   "population": null,
+   "lat": 25.996111,
+   "lng": 56.084167
+ },
+ {
+   "country": "ae",
+   "city": "al gissemari",
+   "Accentcity": "Al Gissemari",
+   "region": 4,
+   "population": null,
+   "lat": 25.143423,
+   "lng": 56.248397
+ },
+ {
+   "country": "ae",
+   "city": "al hagarein",
+   "Accentcity": "Al Hagarein",
+   "region": 3,
+   "population": null,
+   "lat": 24.798996,
+   "lng": 56.115379
+ },
+ {
+   "country": "ae",
+   "city": "al haira",
+   "Accentcity": "Al Haira",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "al hairah",
+   "Accentcity": "Al Hairah",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "alhala",
+   "Accentcity": "Alhala",
+   "region": 4,
+   "population": null,
+   "lat": 25.477378,
+   "lng": 56.182437
+ },
+ {
+   "country": "ae",
+   "city": "al hama'im",
+   "Accentcity": "Al Hama'im",
+   "region": 1,
+   "population": null,
+   "lat": 22.95805,
+   "lng": 54.297206
+ },
+ {
+   "country": "ae",
+   "city": "al hamra'",
+   "Accentcity": "Al Hamra'",
+   "region": 5,
+   "population": null,
+   "lat": 25.709102,
+   "lng": 55.807724
+ },
+ {
+   "country": "ae",
+   "city": "al hamriya",
+   "Accentcity": "Al Hamriya",
+   "region": 6,
+   "population": null,
+   "lat": 25.478194,
+   "lng": 55.533768
+ },
+ {
+   "country": "ae",
+   "city": "al hayir",
+   "Accentcity": "Al Hayir",
+   "region": 5,
+   "population": null,
+   "lat": 25.978611,
+   "lng": 56.085278
+ },
+ {
+   "country": "ae",
+   "city": "al hayl",
+   "Accentcity": "Al Hayl",
+   "region": 4,
+   "population": null,
+   "lat": 25.092227,
+   "lng": 56.24418
+ },
+ {
+   "country": "ae",
+   "city": "al hayl",
+   "Accentcity": "Al Hayl",
+   "region": 5,
+   "population": null,
+   "lat": 25.704979,
+   "lng": 55.987009
+ },
+ {
+   "country": "ae",
+   "city": "al hinya",
+   "Accentcity": "Al Hinya",
+   "region": 4,
+   "population": null,
+   "lat": 25.350928,
+   "lng": 56.025345
+ },
+ {
+   "country": "ae",
+   "city": "al-hirah",
+   "Accentcity": "Al-Hirah",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "al-humaimah",
+   "Accentcity": "Al-Humaimah",
+   "region": 1,
+   "population": null,
+   "lat": 22.95805,
+   "lng": 54.297206
+ },
+ {
+   "country": "ae",
+   "city": "al ian",
+   "Accentcity": "Al Ian",
+   "region": 1,
+   "population": null,
+   "lat": 24.212717,
+   "lng": 55.783488
+ },
+ {
+   "country": "ae",
+   "city": "aliya",
+   "Accentcity": "Aliya",
+   "region": 6,
+   "population": null,
+   "lat": 25.353969,
+   "lng": 55.37189
+ },
+ {
+   "country": "ae",
+   "city": "al jazirah al hamra'",
+   "Accentcity": "Al Jazirah al Hamra'",
+   "region": 5,
+   "population": null,
+   "lat": 25.709102,
+   "lng": 55.807724
+ },
+ {
+   "country": "ae",
+   "city": "al jima",
+   "Accentcity": "Al Jima",
+   "region": 1,
+   "population": null,
+   "lat": 24.24914,
+   "lng": 55.745824
+ },
+ {
+   "country": "ae",
+   "city": "al jimi",
+   "Accentcity": "Al Jimi",
+   "region": 1,
+   "population": null,
+   "lat": 24.24914,
+   "lng": 55.745824
+ },
+ {
+   "country": "ae",
+   "city": "al khalabiya",
+   "Accentcity": "Al Khalabiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.381235,
+   "lng": 56.173576
+ },
+ {
+   "country": "ae",
+   "city": "al kharan",
+   "Accentcity": "Al Kharan",
+   "region": 5,
+   "population": null,
+   "lat": 25.716175,
+   "lng": 55.967757
+ },
+ {
+   "country": "ae",
+   "city": "al khatt",
+   "Accentcity": "Al Khatt",
+   "region": 4,
+   "population": null,
+   "lat": 25.617288,
+   "lng": 56.011128
+ },
+ {
+   "country": "ae",
+   "city": "al khawiya",
+   "Accentcity": "Al Khawiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.995584,
+   "lng": 56.380513
+ },
+ {
+   "country": "ae",
+   "city": "al khulaybiyah",
+   "Accentcity": "Al Khulaybiyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.381235,
+   "lng": 56.173576
+ },
+ {
+   "country": "ae",
+   "city": "al layyah",
+   "Accentcity": "Al Layyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.353969,
+   "lng": 55.37189
+ },
+ {
+   "country": "ae",
+   "city": "al maham",
+   "Accentcity": "Al Maham",
+   "region": 5,
+   "population": null,
+   "lat": 25.675,
+   "lng": 55.990278
+ },
+ {
+   "country": "ae",
+   "city": "al-mariyya al-gharbyya",
+   "Accentcity": "Al-Mariyya Al-Gharbyya",
+   "region": 1,
+   "population": null,
+   "lat": 23.102651,
+   "lng": 53.581849
+ },
+ {
+   "country": "ae",
+   "city": "al-mariyya",
+   "Accentcity": "Al-Mariyya",
+   "region": 1,
+   "population": null,
+   "lat": 23.138476,
+   "lng": 53.742603
+ },
+ {
+   "country": "ae",
+   "city": "al-mariyyah",
+   "Accentcity": "Al-Mariyyah",
+   "region": 1,
+   "population": null,
+   "lat": 23.138476,
+   "lng": 53.742603
+ },
+ {
+   "country": "ae",
+   "city": "al-mirfa'",
+   "Accentcity": "Al-Mirfa'",
+   "region": 1,
+   "population": null,
+   "lat": 24.099107,
+   "lng": 53.490769
+ },
+ {
+   "country": "ae",
+   "city": "al mu`taridh",
+   "Accentcity": "Al Mu`taridh",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "al muwaijh",
+   "Accentcity": "Al Muwaijh",
+   "region": 1,
+   "population": null,
+   "lat": 24.201667,
+   "lng": 55.716389
+ },
+ {
+   "country": "ae",
+   "city": "al muweiqi",
+   "Accentcity": "Al Muweiqi",
+   "region": 1,
+   "population": null,
+   "lat": 24.201667,
+   "lng": 55.716389
+ },
+ {
+   "country": "ae",
+   "city": "al-nashash",
+   "Accentcity": "Al-Nashash",
+   "region": 1,
+   "population": null,
+   "lat": 23.081096,
+   "lng": 54.036351
+ },
+ {
+   "country": "ae",
+   "city": "al-naslah",
+   "Accentcity": "Al-Naslah",
+   "region": 5,
+   "population": null,
+   "lat": 24.865864,
+   "lng": 56.260851
+ },
+ {
+   "country": "ae",
+   "city": "al odeid",
+   "Accentcity": "Al Odeid",
+   "region": 1,
+   "population": null,
+   "lat": 24.616667,
+   "lng": 51.4
+ },
+ {
+   "country": "ae",
+   "city": "al-qatarah",
+   "Accentcity": "Al-Qatarah",
+   "region": 1,
+   "population": null,
+   "lat": 24.259929,
+   "lng": 55.755658
+ },
+ {
+   "country": "ae",
+   "city": "al qawr",
+   "Accentcity": "Al Qawr",
+   "region": 5,
+   "population": null,
+   "lat": 24.912136,
+   "lng": 56.095661
+ },
+ {
+   "country": "ae",
+   "city": "al qima",
+   "Accentcity": "Al Qima",
+   "region": 1,
+   "population": null,
+   "lat": 24.24914,
+   "lng": 55.745824
+ },
+ {
+   "country": "ae",
+   "city": "al qor",
+   "Accentcity": "Al Qor",
+   "region": 5,
+   "population": null,
+   "lat": 24.912136,
+   "lng": 56.095661
+ },
+ {
+   "country": "ae",
+   "city": "al-rol",
+   "Accentcity": "Al-Rol",
+   "region": 4,
+   "population": null,
+   "lat": 25.601056,
+   "lng": 56.322797
+ },
+ {
+   "country": "ae",
+   "city": "al saad",
+   "Accentcity": "Al Saad",
+   "region": 1,
+   "population": null,
+   "lat": 24.15,
+   "lng": 55.766667
+ },
+ {
+   "country": "ae",
+   "city": "al said",
+   "Accentcity": "Al Said",
+   "region": 1,
+   "population": null,
+   "lat": 24.15,
+   "lng": 55.766667
+ },
+ {
+   "country": "ae",
+   "city": "al satwa",
+   "Accentcity": "Al Satwa",
+   "region": 3,
+   "population": null,
+   "lat": 25.229014,
+   "lng": 55.272329
+ },
+ {
+   "country": "ae",
+   "city": "al selimat",
+   "Accentcity": "Al Selimat",
+   "region": 1,
+   "population": null,
+   "lat": 24.221944,
+   "lng": 55.603056
+ },
+ {
+   "country": "ae",
+   "city": "al sharjah",
+   "Accentcity": "Al Sharjah",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "al-tarif",
+   "Accentcity": "Al-Tarif",
+   "region": 1,
+   "population": null,
+   "lat": 24.053988,
+   "lng": 53.763468
+ },
+ {
+   "country": "ae",
+   "city": "al-'udaid",
+   "Accentcity": "Al-'Udaid",
+   "region": 1,
+   "population": null,
+   "lat": 24.616667,
+   "lng": 51.4
+ },
+ {
+   "country": "ae",
+   "city": "al-`udeid",
+   "Accentcity": "Al-`Udeid",
+   "region": 1,
+   "population": null,
+   "lat": 24.616667,
+   "lng": 51.4
+ },
+ {
+   "country": "ae",
+   "city": "al wathba",
+   "Accentcity": "Al Wathba",
+   "region": 1,
+   "population": null,
+   "lat": 24.25958,
+   "lng": 54.707814
+ },
+ {
+   "country": "ae",
+   "city": "an naslah",
+   "Accentcity": "An Naslah",
+   "region": 5,
+   "population": null,
+   "lat": 24.865864,
+   "lng": 56.260851
+ },
+ {
+   "country": "ae",
+   "city": "aqqa",
+   "Accentcity": "Aqqa",
+   "region": 4,
+   "population": null,
+   "lat": 25.498669,
+   "lng": 56.358302
+ },
+ {
+   "country": "ae",
+   "city": "`arada",
+   "Accentcity": "`Arada",
+   "region": 1,
+   "population": null,
+   "lat": 22.992313,
+   "lng": 53.428915
+ },
+ {
+   "country": "ae",
+   "city": "araibi",
+   "Accentcity": "Araibi",
+   "region": 5,
+   "population": null,
+   "lat": 25.789452,
+   "lng": 55.976649
+ },
+ {
+   "country": "ae",
+   "city": "ar ru'ays",
+   "Accentcity": "Ar Ru'ays",
+   "region": 1,
+   "population": null,
+   "lat": 24.110278,
+   "lng": 52.730556
+ },
+ {
+   "country": "ae",
+   "city": "ash 'mariqah",
+   "Accentcity": "Ash 'Mariqah",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "ash shariqa",
+   "Accentcity": "Ash Shariqa",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "`asimah",
+   "Accentcity": "`Asimah",
+   "region": 5,
+   "population": null,
+   "lat": 25.398308,
+   "lng": 56.150726
+ },
+ {
+   "country": "ae",
+   "city": "as salihiyah",
+   "Accentcity": "As Salihiyah",
+   "region": 5,
+   "population": null,
+   "lat": 25.721613,
+   "lng": 55.990811
+ },
+ {
+   "country": "ae",
+   "city": "as saqamqam",
+   "Accentcity": "As Saqamqam",
+   "region": 4,
+   "population": null,
+   "lat": 25.174666,
+   "lng": 56.330388
+ },
+ {
+   "country": "ae",
+   "city": "athaba",
+   "Accentcity": "Athaba",
+   "region": 5,
+   "population": null,
+   "lat": 25.163564,
+   "lng": 56.09619
+ },
+ {
+   "country": "ae",
+   "city": "at tarif",
+   "Accentcity": "At Tarif",
+   "region": 1,
+   "population": null,
+   "lat": 24.053988,
+   "lng": 53.763468
+ },
+ {
+   "country": "ae",
+   "city": "at turayf",
+   "Accentcity": "At Turayf",
+   "region": 1,
+   "population": null,
+   "lat": 24.053988,
+   "lng": 53.763468
+ },
+ {
+   "country": "ae",
+   "city": "`awanat",
+   "Accentcity": "`Awanat",
+   "region": 7,
+   "population": null,
+   "lat": 25.365847,
+   "lng": 55.856185
+ },
+ {
+   "country": "ae",
+   "city": "ayaina",
+   "Accentcity": "Ayaina",
+   "region": 4,
+   "population": null,
+   "lat": 25.452828,
+   "lng": 56.16879
+ },
+ {
+   "country": "ae",
+   "city": "ayn al faidah",
+   "Accentcity": "Ayn al Faidah",
+   "region": 1,
+   "population": null,
+   "lat": 24.083333,
+   "lng": 55.683333
+ },
+ {
+   "country": "ae",
+   "city": "`ayn al ghamur",
+   "Accentcity": "`Ayn al Ghamur",
+   "region": 6,
+   "population": null,
+   "lat": 24.959508,
+   "lng": 56.315852
+ },
+ {
+   "country": "ae",
+   "city": "`ayn zawahir",
+   "Accentcity": "`Ayn Zawahir",
+   "region": 1,
+   "population": null,
+   "lat": 24.212717,
+   "lng": 55.783488
+ },
+ {
+   "country": "ae",
+   "city": "badiya",
+   "Accentcity": "Badiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "badiyyah",
+   "Accentcity": "Badiyyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "bandar mirfah",
+   "Accentcity": "Bandar Mirfah",
+   "region": 1,
+   "population": null,
+   "lat": 24.099107,
+   "lng": 53.490769
+ },
+ {
+   "country": "ae",
+   "city": "barahah",
+   "Accentcity": "Barahah",
+   "region": 3,
+   "population": null,
+   "lat": 25.266667,
+   "lng": 55.316667
+ },
+ {
+   "country": "ae",
+   "city": "batain",
+   "Accentcity": "Batain",
+   "region": 1,
+   "population": null,
+   "lat": 24.442901,
+   "lng": 54.355388
+ },
+ {
+   "country": "ae",
+   "city": "batein",
+   "Accentcity": "Batein",
+   "region": 1,
+   "population": null,
+   "lat": 24.442901,
+   "lng": 54.355388
+ },
+ {
+   "country": "ae",
+   "city": "bidayarat margham",
+   "Accentcity": "Bidayarat Margham",
+   "region": 3,
+   "population": null,
+   "lat": 24.870768,
+   "lng": 55.549053
+ },
+ {
+   "country": "ae",
+   "city": "bidiya",
+   "Accentcity": "Bidiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "bidyah",
+   "Accentcity": "Bidyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "bid' zayed",
+   "Accentcity": "Bid' Zayed",
+   "region": 1,
+   "population": null,
+   "lat": 23.630726,
+   "lng": 53.729897
+ },
+ {
+   "country": "ae",
+   "city": "bilaida",
+   "Accentcity": "Bilaida",
+   "region": 4,
+   "population": null,
+   "lat": 25.223877,
+   "lng": 56.202213
+ },
+ {
+   "country": "ae",
+   "city": "bilaidah",
+   "Accentcity": "Bilaidah",
+   "region": 4,
+   "population": null,
+   "lat": 25.223877,
+   "lng": 56.202213
+ },
+ {
+   "country": "ae",
+   "city": "bithna",
+   "Accentcity": "Bithna",
+   "region": 4,
+   "population": null,
+   "lat": 25.189507,
+   "lng": 56.235157
+ },
+ {
+   "country": "ae",
+   "city": "bithnah",
+   "Accentcity": "Bithnah",
+   "region": 4,
+   "population": null,
+   "lat": 25.189507,
+   "lng": 56.235157
+ },
+ {
+   "country": "ae",
+   "city": "budayyah",
+   "Accentcity": "Budayyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.432273,
+   "lng": 56.345736
+ },
+ {
+   "country": "ae",
+   "city": "bulaidha",
+   "Accentcity": "Bulaidha",
+   "region": 4,
+   "population": null,
+   "lat": 25.223877,
+   "lng": 56.202213
+ },
+ {
+   "country": "ae",
+   "city": "chuwais",
+   "Accentcity": "Chuwais",
+   "region": 5,
+   "population": null,
+   "lat": 25.78102,
+   "lng": 55.978696
+ },
+ {
+   "country": "ae",
+   "city": "daba al-ghurfah",
+   "Accentcity": "Daba al-Ghurfah",
+   "region": 4,
+   "population": null,
+   "lat": 25.597686,
+   "lng": 56.276736
+ },
+ {
+   "country": "ae",
+   "city": "daba al-hisn",
+   "Accentcity": "Daba al-Hisn",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "daba",
+   "Accentcity": "Daba",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "dabei",
+   "Accentcity": "Dabei",
+   "region": 3,
+   "population": null,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "dadna",
+   "Accentcity": "Dadna",
+   "region": 4,
+   "population": null,
+   "lat": 25.524217,
+   "lng": 56.35868
+ },
+ {
+   "country": "ae",
+   "city": "dadnah",
+   "Accentcity": "Dadnah",
+   "region": 4,
+   "population": null,
+   "lat": 25.524217,
+   "lng": 56.35868
+ },
+ {
+   "country": "ae",
+   "city": "dafir",
+   "Accentcity": "Dafir",
+   "region": 1,
+   "population": null,
+   "lat": 23.127315,
+   "lng": 53.754393
+ },
+ {
+   "country": "ae",
+   "city": "dafta",
+   "Accentcity": "Dafta",
+   "region": 5,
+   "population": null,
+   "lat": 25.272255,
+   "lng": 56.183534
+ },
+ {
+   "country": "ae",
+   "city": "daira",
+   "Accentcity": "Daira",
+   "region": 3,
+   "population": null,
+   "lat": 25.273069,
+   "lng": 55.306374
+ },
+ {
+   "country": "ae",
+   "city": "dairah",
+   "Accentcity": "Dairah",
+   "region": 3,
+   "population": null,
+   "lat": 25.273069,
+   "lng": 55.306374
+ },
+ {
+   "country": "ae",
+   "city": "dasa",
+   "Accentcity": "Dasa",
+   "region": 1,
+   "population": null,
+   "lat": 24.278385,
+   "lng": 52.623689
+ },
+ {
+   "country": "ae",
+   "city": "datta",
+   "Accentcity": "Datta",
+   "region": 5,
+   "population": null,
+   "lat": 25.272255,
+   "lng": 56.183534
+ },
+ {
+   "country": "ae",
+   "city": "dayd",
+   "Accentcity": "Dayd",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "deira",
+   "Accentcity": "Deira",
+   "region": 3,
+   "population": null,
+   "lat": 25.273069,
+   "lng": 55.306374
+ },
+ {
+   "country": "ae",
+   "city": "dhadna",
+   "Accentcity": "Dhadna",
+   "region": 4,
+   "population": null,
+   "lat": 25.524217,
+   "lng": 56.35868
+ },
+ {
+   "country": "ae",
+   "city": "dhafir",
+   "Accentcity": "Dhafir",
+   "region": 1,
+   "population": null,
+   "lat": 23.127315,
+   "lng": 53.754393
+ },
+ {
+   "country": "ae",
+   "city": "dhaiah",
+   "Accentcity": "Dhaiah",
+   "region": 5,
+   "population": null,
+   "lat": 25.887843,
+   "lng": 56.058239
+ },
+ {
+   "country": "ae",
+   "city": "dhaid",
+   "Accentcity": "Dhaid",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "dhaiyah",
+   "Accentcity": "Dhaiyah",
+   "region": 5,
+   "population": null,
+   "lat": 25.887843,
+   "lng": 56.058239
+ },
+ {
+   "country": "ae",
+   "city": "dhawaihir",
+   "Accentcity": "Dhawaihir",
+   "region": 1,
+   "population": null,
+   "lat": 23.283333,
+   "lng": 53.2
+ },
+ {
+   "country": "ae",
+   "city": "dhayd",
+   "Accentcity": "Dhayd",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "dhuwaiher",
+   "Accentcity": "Dhuwaiher",
+   "region": 1,
+   "population": null,
+   "lat": 23.139159,
+   "lng": 53.693403
+ },
+ {
+   "country": "ae",
+   "city": "diba al hisn",
+   "Accentcity": "Diba al Hisn",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "dibah",
+   "Accentcity": "Dibah",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "dibai",
+   "Accentcity": "Dibai",
+   "region": 3,
+   "population": null,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "dibay",
+   "Accentcity": "Dibay",
+   "region": 3,
+   "population": null,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "dibba",
+   "Accentcity": "Dibba",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "dibbah",
+   "Accentcity": "Dibbah",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "digdagga",
+   "Accentcity": "Digdagga",
+   "region": 5,
+   "population": null,
+   "lat": 25.665602,
+   "lng": 55.969045
+ },
+ {
+   "country": "ae",
+   "city": "diq duqqah",
+   "Accentcity": "Diq Duqqah",
+   "region": 5,
+   "population": null,
+   "lat": 25.665602,
+   "lng": 55.969045
+ },
+ {
+   "country": "ae",
+   "city": "dirah",
+   "Accentcity": "Dirah",
+   "region": 3,
+   "population": null,
+   "lat": 25.273069,
+   "lng": 55.306374
+ },
+ {
+   "country": "ae",
+   "city": "dubai",
+   "Accentcity": "Dubai",
+   "region": 3,
+   "population": 1137376,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "dubay",
+   "Accentcity": "Dubay",
+   "region": 3,
+   "population": null,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "duhayd",
+   "Accentcity": "Duhayd",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "duwaihir",
+   "Accentcity": "Duwaihir",
+   "region": 1,
+   "population": null,
+   "lat": 23.283333,
+   "lng": 53.2
+ },
+ {
+   "country": "ae",
+   "city": "duwayhin",
+   "Accentcity": "Duwayhin",
+   "region": 1,
+   "population": null,
+   "lat": 23.077341,
+   "lng": 54.084222
+ },
+ {
+   "country": "ae",
+   "city": "el ain",
+   "Accentcity": "El Ain",
+   "region": 1,
+   "population": null,
+   "lat": 24.212717,
+   "lng": 55.783488
+ },
+ {
+   "country": "ae",
+   "city": "fahlain",
+   "Accentcity": "Fahlain",
+   "region": 5,
+   "population": null,
+   "lat": 25.684119,
+   "lng": 55.967495
+ },
+ {
+   "country": "ae",
+   "city": "fahlayn",
+   "Accentcity": "Fahlayn",
+   "region": 5,
+   "population": null,
+   "lat": 25.684119,
+   "lng": 55.967495
+ },
+ {
+   "country": "ae",
+   "city": "faiyada",
+   "Accentcity": "Faiyada",
+   "region": 5,
+   "population": null,
+   "lat": 24.957746,
+   "lng": 56.205983
+ },
+ {
+   "country": "ae",
+   "city": "fakkan",
+   "Accentcity": "Fakkan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "falaiya",
+   "Accentcity": "Falaiya",
+   "region": 5,
+   "population": null,
+   "lat": 25.734805,
+   "lng": 55.982845
+ },
+ {
+   "country": "ae",
+   "city": "falaiyah",
+   "Accentcity": "Falaiyah",
+   "region": 5,
+   "population": null,
+   "lat": 25.734805,
+   "lng": 55.982845
+ },
+ {
+   "country": "ae",
+   "city": "falaj al ali",
+   "Accentcity": "Falaj al Ali",
+   "region": 7,
+   "population": null,
+   "lat": 25.354005,
+   "lng": 55.853315
+ },
+ {
+   "country": "ae",
+   "city": "falaj ibn mu'alla",
+   "Accentcity": "Falaj Ibn Mu'alla",
+   "region": 7,
+   "population": null,
+   "lat": 25.354005,
+   "lng": 55.853315
+ },
+ {
+   "country": "ae",
+   "city": "falj al `ali",
+   "Accentcity": "Falj Al `Ali",
+   "region": 7,
+   "population": null,
+   "lat": 25.354005,
+   "lng": 55.853315
+ },
+ {
+   "country": "ae",
+   "city": "falq al ali",
+   "Accentcity": "Falq Al Ali",
+   "region": 7,
+   "population": null,
+   "lat": 25.354005,
+   "lng": 55.853315
+ },
+ {
+   "country": "ae",
+   "city": "fara",
+   "Accentcity": "Fara",
+   "region": 5,
+   "population": null,
+   "lat": 25.414304,
+   "lng": 56.091233
+ },
+ {
+   "country": "ae",
+   "city": "far`",
+   "Accentcity": "Far`",
+   "region": 5,
+   "population": null,
+   "lat": 25.414304,
+   "lng": 56.091233
+ },
+ {
+   "country": "ae",
+   "city": "farfar",
+   "Accentcity": "Farfar",
+   "region": 4,
+   "population": null,
+   "lat": 25.14844,
+   "lng": 56.22242
+ },
+ {
+   "country": "ae",
+   "city": "fashra",
+   "Accentcity": "Fashra",
+   "region": 5,
+   "population": null,
+   "lat": 24.884097,
+   "lng": 56.205284
+ },
+ {
+   "country": "ae",
+   "city": "fayyadah",
+   "Accentcity": "Fayyadah",
+   "region": 5,
+   "population": null,
+   "lat": 24.957746,
+   "lng": 56.205983
+ },
+ {
+   "country": "ae",
+   "city": "fili ma`ala",
+   "Accentcity": "Fili Ma`ala",
+   "region": 7,
+   "population": null,
+   "lat": 25.354005,
+   "lng": 55.853315
+ },
+ {
+   "country": "ae",
+   "city": "fort dabei",
+   "Accentcity": "Fort Dabei",
+   "region": 3,
+   "population": null,
+   "lat": 25.258172,
+   "lng": 55.304717
+ },
+ {
+   "country": "ae",
+   "city": "fujaira",
+   "Accentcity": "Fujaira",
+   "region": 4,
+   "population": null,
+   "lat": 25.116412,
+   "lng": 56.341408
+ },
+ {
+   "country": "ae",
+   "city": "fujairah",
+   "Accentcity": "Fujairah",
+   "region": 4,
+   "population": null,
+   "lat": 25.116412,
+   "lng": 56.341408
+ },
+ {
+   "country": "ae",
+   "city": "fujayrah",
+   "Accentcity": "Fujayrah",
+   "region": 4,
+   "population": null,
+   "lat": 25.116412,
+   "lng": 56.341408
+ },
+ {
+   "country": "ae",
+   "city": "fulayyah",
+   "Accentcity": "Fulayyah",
+   "region": 5,
+   "population": null,
+   "lat": 25.734805,
+   "lng": 55.982845
+ },
+ {
+   "country": "ae",
+   "city": "furfar",
+   "Accentcity": "Furfar",
+   "region": 4,
+   "population": null,
+   "lat": 25.14844,
+   "lng": 56.22242
+ },
+ {
+   "country": "ae",
+   "city": "gargaha",
+   "Accentcity": "Gargaha",
+   "region": 5,
+   "population": null,
+   "lat": 25.766667,
+   "lng": 56.066667
+ },
+ {
+   "country": "ae",
+   "city": "garmada",
+   "Accentcity": "Garmada",
+   "region": 1,
+   "population": null,
+   "lat": 23.119573,
+   "lng": 53.828551
+ },
+ {
+   "country": "ae",
+   "city": "ge'aisa",
+   "Accentcity": "Ge'aisa",
+   "region": 1,
+   "population": null,
+   "lat": 22.9941,
+   "lng": 54.221835
+ },
+ {
+   "country": "ae",
+   "city": "ghadaf",
+   "Accentcity": "Ghadaf",
+   "region": 5,
+   "population": null,
+   "lat": 25.28358,
+   "lng": 56.174102
+ },
+ {
+   "country": "ae",
+   "city": "ghail",
+   "Accentcity": "Ghail",
+   "region": 5,
+   "population": null,
+   "lat": 25.401739,
+   "lng": 56.068063
+ },
+ {
+   "country": "ae",
+   "city": "ghail",
+   "Accentcity": "Ghail",
+   "region": 6,
+   "population": null,
+   "lat": 25.006774,
+   "lng": 56.332905
+ },
+ {
+   "country": "ae",
+   "city": "ghalla",
+   "Accentcity": "Ghalla",
+   "region": 6,
+   "population": null,
+   "lat": 25.07462,
+   "lng": 56.355447
+ },
+ {
+   "country": "ae",
+   "city": "ghallah",
+   "Accentcity": "Ghallah",
+   "region": 6,
+   "population": null,
+   "lat": 25.07462,
+   "lng": 56.355447
+ },
+ {
+   "country": "ae",
+   "city": "ghamara",
+   "Accentcity": "Ghamara",
+   "region": 5,
+   "population": null,
+   "lat": 25.294195,
+   "lng": 56.170094
+ },
+ {
+   "country": "ae",
+   "city": "gharaifah",
+   "Accentcity": "Gharaifah",
+   "region": 4,
+   "population": null,
+   "lat": 25.124965,
+   "lng": 56.353807
+ },
+ {
+   "country": "ae",
+   "city": "gharefa",
+   "Accentcity": "Gharefa",
+   "region": 4,
+   "population": null,
+   "lat": 25.124965,
+   "lng": 56.353807
+ },
+ {
+   "country": "ae",
+   "city": "ghob",
+   "Accentcity": "Ghob",
+   "region": 4,
+   "population": null,
+   "lat": 25.565895,
+   "lng": 56.202173
+ },
+ {
+   "country": "ae",
+   "city": "ghubbah",
+   "Accentcity": "Ghubbah",
+   "region": 5,
+   "population": null,
+   "lat": 26.048889,
+   "lng": 56.153333
+ },
+ {
+   "country": "ae",
+   "city": "ghubbat khawarah",
+   "Accentcity": "Ghubbat Khawarah",
+   "region": 5,
+   "population": null,
+   "lat": 26.042778,
+   "lng": 56.135
+ },
+ {
+   "country": "ae",
+   "city": "ghumrah",
+   "Accentcity": "Ghumrah",
+   "region": 5,
+   "population": null,
+   "lat": 25.294195,
+   "lng": 56.170094
+ },
+ {
+   "country": "ae",
+   "city": "ghuna",
+   "Accentcity": "Ghuna",
+   "region": 6,
+   "population": null,
+   "lat": 25.269944,
+   "lng": 56.314253
+ },
+ {
+   "country": "ae",
+   "city": "ghura",
+   "Accentcity": "Ghura",
+   "region": 4,
+   "population": null,
+   "lat": 25.219662,
+   "lng": 56.207603
+ },
+ {
+   "country": "ae",
+   "city": "ghurayfah",
+   "Accentcity": "Ghurayfah",
+   "region": 4,
+   "population": null,
+   "lat": 25.124965,
+   "lng": 56.353807
+ },
+ {
+   "country": "ae",
+   "city": "ghurfah",
+   "Accentcity": "Ghurfah",
+   "region": 4,
+   "population": null,
+   "lat": 25.124965,
+   "lng": 56.353807
+ },
+ {
+   "country": "ae",
+   "city": "girath",
+   "Accentcity": "Girath",
+   "region": 6,
+   "population": null,
+   "lat": 25.260889,
+   "lng": 56.354349
+ },
+ {
+   "country": "ae",
+   "city": "habhab",
+   "Accentcity": "Habhab",
+   "region": 5,
+   "population": null,
+   "lat": 25.61564,
+   "lng": 56.004413
+ },
+ {
+   "country": "ae",
+   "city": "hadaibah",
+   "Accentcity": "Hadaibah",
+   "region": 5,
+   "population": null,
+   "lat": 25.797674,
+   "lng": 55.980293
+ },
+ {
+   "country": "ae",
+   "city": "hadeiba",
+   "Accentcity": "Hadeiba",
+   "region": 5,
+   "population": null,
+   "lat": 25.797674,
+   "lng": 55.980293
+ },
+ {
+   "country": "ae",
+   "city": "hadhi",
+   "Accentcity": "Hadhi",
+   "region": 1,
+   "population": null,
+   "lat": 23.106423,
+   "lng": 53.995273
+ },
+ {
+   "country": "ae",
+   "city": "hail",
+   "Accentcity": "Hail",
+   "region": 3,
+   "population": null,
+   "lat": 25.285475,
+   "lng": 55.329611
+ },
+ {
+   "country": "ae",
+   "city": "hail",
+   "Accentcity": "Hail",
+   "region": 4,
+   "population": null,
+   "lat": 25.092227,
+   "lng": 56.24418
+ },
+ {
+   "country": "ae",
+   "city": "hail",
+   "Accentcity": "Hail",
+   "region": 5,
+   "population": null,
+   "lat": 25.704979,
+   "lng": 55.987009
+ },
+ {
+   "country": "ae",
+   "city": "haira",
+   "Accentcity": "Haira",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "hair",
+   "Accentcity": "Hair",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "hajarain",
+   "Accentcity": "Hajarain",
+   "region": 3,
+   "population": null,
+   "lat": 24.798996,
+   "lng": 56.115379
+ },
+ {
+   "country": "ae",
+   "city": "hajarayn",
+   "Accentcity": "Hajarayn",
+   "region": 3,
+   "population": null,
+   "lat": 24.798996,
+   "lng": 56.115379
+ },
+ {
+   "country": "ae",
+   "city": "hajrain",
+   "Accentcity": "Hajrain",
+   "region": 3,
+   "population": null,
+   "lat": 24.798996,
+   "lng": 56.115379
+ },
+ {
+   "country": "ae",
+   "city": "hama'im",
+   "Accentcity": "Hama'im",
+   "region": 1,
+   "population": null,
+   "lat": 22.95805,
+   "lng": 54.297206
+ },
+ {
+   "country": "ae",
+   "city": "hamra",
+   "Accentcity": "Hamra",
+   "region": 5,
+   "population": null,
+   "lat": 25.709102,
+   "lng": 55.807724
+ },
+ {
+   "country": "ae",
+   "city": "hamriya",
+   "Accentcity": "Hamriya",
+   "region": 6,
+   "population": null,
+   "lat": 25.478194,
+   "lng": 55.533768
+ },
+ {
+   "country": "ae",
+   "city": "hamriyah",
+   "Accentcity": "Hamriyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.478194,
+   "lng": 55.533768
+ },
+ {
+   "country": "ae",
+   "city": "hamriyyah",
+   "Accentcity": "Hamriyyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.478194,
+   "lng": 55.533768
+ },
+ {
+   "country": "ae",
+   "city": "harra",
+   "Accentcity": "Harra",
+   "region": 5,
+   "population": null,
+   "lat": 24.990387,
+   "lng": 56.216691
+ },
+ {
+   "country": "ae",
+   "city": "hayrah",
+   "Accentcity": "Hayrah",
+   "region": 6,
+   "population": null,
+   "lat": 25.38148,
+   "lng": 55.419551
+ },
+ {
+   "country": "ae",
+   "city": "hil",
+   "Accentcity": "Hil",
+   "region": 5,
+   "population": null,
+   "lat": 25.704979,
+   "lng": 55.987009
+ },
+ {
+   "country": "ae",
+   "city": "hili",
+   "Accentcity": "Hili",
+   "region": 1,
+   "population": null,
+   "lat": 24.28473,
+   "lng": 55.763302
+ },
+ {
+   "country": "ae",
+   "city": "hisn diba",
+   "Accentcity": "Hisn Diba",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "hiweitein",
+   "Accentcity": "Hiweitein",
+   "region": 1,
+   "population": null,
+   "lat": 23.119039,
+   "lng": 53.928365
+ },
+ {
+   "country": "ae",
+   "city": "hiyawa",
+   "Accentcity": "Hiyawa",
+   "region": 6,
+   "population": null,
+   "lat": 25.360429,
+   "lng": 56.347729
+ },
+ {
+   "country": "ae",
+   "city": "howeilat",
+   "Accentcity": "Howeilat",
+   "region": 5,
+   "population": null,
+   "lat": 24.876638,
+   "lng": 56.173722
+ },
+ {
+   "country": "ae",
+   "city": "humaym",
+   "Accentcity": "Humaym",
+   "region": 1,
+   "population": null,
+   "lat": 22.95805,
+   "lng": 54.297206
+ },
+ {
+   "country": "ae",
+   "city": "husn dibba",
+   "Accentcity": "Husn Dibba",
+   "region": 6,
+   "population": null,
+   "lat": 25.619547,
+   "lng": 56.272912
+ },
+ {
+   "country": "ae",
+   "city": "huwaila",
+   "Accentcity": "Huwaila",
+   "region": 1,
+   "population": null,
+   "lat": 23.152008,
+   "lng": 53.82462
+ },
+ {
+   "country": "ae",
+   "city": "huwaitin",
+   "Accentcity": "Huwaitin",
+   "region": 1,
+   "population": null,
+   "lat": 23.119039,
+   "lng": 53.928365
+ },
+ {
+   "country": "ae",
+   "city": "huweilah",
+   "Accentcity": "Huweilah",
+   "region": 1,
+   "population": null,
+   "lat": 23.152008,
+   "lng": 53.82462
+ },
+ {
+   "country": "ae",
+   "city": "idhn",
+   "Accentcity": "Idhn",
+   "region": 5,
+   "population": null,
+   "lat": 25.460122,
+   "lng": 56.012562
+ },
+ {
+   "country": "ae",
+   "city": "ihaid",
+   "Accentcity": "Ihaid",
+   "region": 6,
+   "population": null,
+   "lat": 25.288123,
+   "lng": 55.881571
+ },
+ {
+   "country": "ae",
+   "city": "istaihah",
+   "Accentcity": "Istaihah",
+   "region": 1,
+   "population": null,
+   "lat": 23.316096,
+   "lng": 54.067177
+ },
+ {
+   "country": "ae",
+   "city": "isteiha",
+   "Accentcity": "Isteiha",
+   "region": 1,
+   "population": null,
+   "lat": 23.316096,
+   "lng": 54.067177
+ },
+ {
+   "country": "ae",
+   "city": "jareef",
+   "Accentcity": "Jareef",
+   "region": 4,
+   "population": null,
+   "lat": 25.514168,
+   "lng": 56.071944
+ },
+ {
+   "country": "ae",
+   "city": "jarmada",
+   "Accentcity": "Jarmada",
+   "region": 1,
+   "population": null,
+   "lat": 23.119573,
+   "lng": 53.828551
+ },
+ {
+   "country": "ae",
+   "city": "je`eisah",
+   "Accentcity": "Je`eisah",
+   "region": 1,
+   "population": null,
+   "lat": 22.9941,
+   "lng": 54.221835
+ },
+ {
+   "country": "ae",
+   "city": "jeraira",
+   "Accentcity": "Jeraira",
+   "region": 1,
+   "population": null,
+   "lat": 22.94082,
+   "lng": 54.310162
+ },
+ {
+   "country": "ae",
+   "city": "jereirah",
+   "Accentcity": "Jereirah",
+   "region": 1,
+   "population": null,
+   "lat": 22.94082,
+   "lng": 54.310162
+ },
+ {
+   "country": "ae",
+   "city": "jimeirah",
+   "Accentcity": "Jimeirah",
+   "region": 3,
+   "population": null,
+   "lat": 25.204822,
+   "lng": 55.246569
+ },
+ {
+   "country": "ae",
+   "city": "jimi",
+   "Accentcity": "Jimi",
+   "region": 1,
+   "population": null,
+   "lat": 24.24914,
+   "lng": 55.745824
+ },
+ {
+   "country": "ae",
+   "city": "juhr",
+   "Accentcity": "Juhr",
+   "region": 1,
+   "population": null,
+   "lat": 24.25,
+   "lng": 55.583333
+ },
+ {
+   "country": "ae",
+   "city": "julfa",
+   "Accentcity": "Julfa",
+   "region": 5,
+   "population": null,
+   "lat": 25.789527,
+   "lng": 55.943196
+ },
+ {
+   "country": "ae",
+   "city": "jumairah",
+   "Accentcity": "Jumairah",
+   "region": 3,
+   "population": null,
+   "lat": 25.204822,
+   "lng": 55.246569
+ },
+ {
+   "country": "ae",
+   "city": "jumaira",
+   "Accentcity": "Jumaira",
+   "region": 3,
+   "population": null,
+   "lat": 25.204822,
+   "lng": 55.246569
+ },
+ {
+   "country": "ae",
+   "city": "jumeira",
+   "Accentcity": "Jumeira",
+   "region": 3,
+   "population": null,
+   "lat": 25.204822,
+   "lng": 55.246569
+ },
+ {
+   "country": "ae",
+   "city": "kalbah",
+   "Accentcity": "Kalbah",
+   "region": 6,
+   "population": null,
+   "lat": 25.07462,
+   "lng": 56.355447
+ },
+ {
+   "country": "ae",
+   "city": "kayya",
+   "Accentcity": "Kayya",
+   "region": 1,
+   "population": null,
+   "lat": 23.156958,
+   "lng": 53.685414
+ },
+ {
+   "country": "ae",
+   "city": "khaimah",
+   "Accentcity": "Khaimah",
+   "region": 5,
+   "population": null,
+   "lat": 25.789527,
+   "lng": 55.943196
+ },
+ {
+   "country": "ae",
+   "city": "khalaibiyah",
+   "Accentcity": "Khalaibiyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.381235,
+   "lng": 56.173576
+ },
+ {
+   "country": "ae",
+   "city": "khalaibiya",
+   "Accentcity": "Khalaibiya",
+   "region": 4,
+   "population": null,
+   "lat": 25.381235,
+   "lng": 56.173576
+ },
+ {
+   "country": "ae",
+   "city": "khan",
+   "Accentcity": "Khan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331412,
+   "lng": 55.359006
+ },
+ {
+   "country": "ae",
+   "city": "khauran",
+   "Accentcity": "Khauran",
+   "region": 5,
+   "population": null,
+   "lat": 25.716175,
+   "lng": 55.967757
+ },
+ {
+   "country": "ae",
+   "city": "khawr al fakkan",
+   "Accentcity": "Khawr al Fakkan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khawr al kalba",
+   "Accentcity": "Khawr al Kalba",
+   "region": 6,
+   "population": null,
+   "lat": 25.038352,
+   "lng": 56.362578
+ },
+ {
+   "country": "ae",
+   "city": "khawran",
+   "Accentcity": "Khawran",
+   "region": 5,
+   "population": null,
+   "lat": 25.716175,
+   "lng": 55.967757
+ },
+ {
+   "country": "ae",
+   "city": "khawr mala",
+   "Accentcity": "Khawr Mala",
+   "region": 4,
+   "population": null,
+   "lat": 25.801287,
+   "lng": 56.351111
+ },
+ {
+   "country": "ae",
+   "city": "khawr za`ab",
+   "Accentcity": "Khawr Za`ab",
+   "region": 6,
+   "population": null,
+   "lat": 25.038352,
+   "lng": 56.362578
+ },
+ {
+   "country": "ae",
+   "city": "khor al fakhan",
+   "Accentcity": "Khor al Fakhan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khor al fakkan",
+   "Accentcity": "Khor al Fakkan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khor al kalba",
+   "Accentcity": "Khor al Kalba",
+   "region": 6,
+   "population": null,
+   "lat": 25.038352,
+   "lng": 56.362578
+ },
+ {
+   "country": "ae",
+   "city": "khorfakan",
+   "Accentcity": "Khorfakan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khorfakhan",
+   "Accentcity": "Khorfakhan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khor fakhan",
+   "Accentcity": "Khor Fakhan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khor fakkan",
+   "Accentcity": "Khor Fakkan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "khor kalba",
+   "Accentcity": "Khor Kalba",
+   "region": 6,
+   "population": null,
+   "lat": 25.038352,
+   "lng": 56.362578
+ },
+ {
+   "country": "ae",
+   "city": "khor khuwair",
+   "Accentcity": "Khor Khuwair",
+   "region": 5,
+   "population": null,
+   "lat": 25.965765,
+   "lng": 56.054708
+ },
+ {
+   "country": "ae",
+   "city": "khouran",
+   "Accentcity": "Khouran",
+   "region": 5,
+   "population": null,
+   "lat": 25.716175,
+   "lng": 55.967757
+ },
+ {
+   "country": "ae",
+   "city": "khubakhib",
+   "Accentcity": "Khubakhib",
+   "region": 5,
+   "population": null,
+   "lat": 25.452002,
+   "lng": 56.093755
+ },
+ {
+   "country": "ae",
+   "city": "khuwair",
+   "Accentcity": "Khuwair",
+   "region": 5,
+   "population": null,
+   "lat": 25.965765,
+   "lng": 56.054708
+ },
+ {
+   "country": "ae",
+   "city": "kuways",
+   "Accentcity": "Kuways",
+   "region": 5,
+   "population": null,
+   "lat": 25.78102,
+   "lng": 55.978696
+ },
+ {
+   "country": "ae",
+   "city": "laiyah",
+   "Accentcity": "Laiyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.353969,
+   "lng": 55.37189
+ },
+ {
+   "country": "ae",
+   "city": "laiya",
+   "Accentcity": "Laiya",
+   "region": 6,
+   "population": null,
+   "lat": 25.353969,
+   "lng": 55.37189
+ },
+ {
+   "country": "ae",
+   "city": "laiyya",
+   "Accentcity": "Laiyya",
+   "region": 6,
+   "population": null,
+   "lat": 25.353969,
+   "lng": 55.37189
+ },
+ {
+   "country": "ae",
+   "city": "latir",
+   "Accentcity": "Latir",
+   "region": 1,
+   "population": null,
+   "lat": 23.162612,
+   "lng": 53.73617
+ },
+ {
+   "country": "ae",
+   "city": "lisaili",
+   "Accentcity": "Lisaili",
+   "region": 5,
+   "population": null,
+   "lat": 25.62676,
+   "lng": 56.008144
+ },
+ {
+   "country": "ae",
+   "city": "lulaiyah",
+   "Accentcity": "Lulaiyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.392581,
+   "lng": 56.354636
+ },
+ {
+   "country": "ae",
+   "city": "luliyyah",
+   "Accentcity": "Luliyyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.392581,
+   "lng": 56.354636
+ },
+ {
+   "country": "ae",
+   "city": "lu'lu'iyah",
+   "Accentcity": "Lu'lu'iyah",
+   "region": 6,
+   "population": null,
+   "lat": 25.392581,
+   "lng": 56.354636
+ },
+ {
+   "country": "ae",
+   "city": "luluya",
+   "Accentcity": "Luluya",
+   "region": 6,
+   "population": null,
+   "lat": 25.392581,
+   "lng": 56.354636
+ },
+ {
+   "country": "ae",
+   "city": "lumweijah",
+   "Accentcity": "Lumweijah",
+   "region": 1,
+   "population": null,
+   "lat": 24.201667,
+   "lng": 55.716389
+ },
+ {
+   "country": "ae",
+   "city": "ma'airidh",
+   "Accentcity": "Ma'airidh",
+   "region": 5,
+   "population": null,
+   "lat": 25.810519,
+   "lng": 55.9647
+ },
+ {
+   "country": "ae",
+   "city": "ma'aridh",
+   "Accentcity": "Ma'aridh",
+   "region": 5,
+   "population": null,
+   "lat": 25.810519,
+   "lng": 55.9647
+ },
+ {
+   "country": "ae",
+   "city": "ma`arid",
+   "Accentcity": "Ma`arid",
+   "region": 5,
+   "population": null,
+   "lat": 25.810519,
+   "lng": 55.9647
+ },
+ {
+   "country": "ae",
+   "city": "ma'ataradh",
+   "Accentcity": "Ma'ataradh",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "ma'ataridh",
+   "Accentcity": "Ma'ataridh",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "madaq",
+   "Accentcity": "Madaq",
+   "region": 4,
+   "population": null,
+   "lat": 25.339118,
+   "lng": 56.104939
+ },
+ {
+   "country": "ae",
+   "city": "madha",
+   "Accentcity": "Madha",
+   "region": 6,
+   "population": null,
+   "lat": 25.283447,
+   "lng": 56.332801
+ },
+ {
+   "country": "ae",
+   "city": "madinat za'id",
+   "Accentcity": "Madinat Za'id",
+   "region": 1,
+   "population": null,
+   "lat": 23.630726,
+   "lng": 53.729897
+ },
+ {
+   "country": "ae",
+   "city": "magrobiyya",
+   "Accentcity": "Magrobiyya",
+   "region": 5,
+   "population": null,
+   "lat": 25.2,
+   "lng": 56.05
+ },
+ {
+   "country": "ae",
+   "city": "mahtarraqah",
+   "Accentcity": "Mahtarraqah",
+   "region": 4,
+   "population": null,
+   "lat": 25.540918,
+   "lng": 56.130664
+ },
+ {
+   "country": "ae",
+   "city": "maidaq",
+   "Accentcity": "Maidaq",
+   "region": 4,
+   "population": null,
+   "lat": 25.339118,
+   "lng": 56.104939
+ },
+ {
+   "country": "ae",
+   "city": "manai'i",
+   "Accentcity": "Manai'i",
+   "region": 5,
+   "population": null,
+   "lat": 24.951349,
+   "lng": 56.149968
+ },
+ {
+   "country": "ae",
+   "city": "manai",
+   "Accentcity": "Manai",
+   "region": 5,
+   "population": null,
+   "lat": 24.951349,
+   "lng": 56.149968
+ },
+ {
+   "country": "ae",
+   "city": "manamah",
+   "Accentcity": "Manamah",
+   "region": 4,
+   "population": null,
+   "lat": 25.329901,
+   "lng": 56.021884
+ },
+ {
+   "country": "ae",
+   "city": "manama",
+   "Accentcity": "Manama",
+   "region": 4,
+   "population": null,
+   "lat": 25.329901,
+   "lng": 56.021884
+ },
+ {
+   "country": "ae",
+   "city": "manqasnah",
+   "Accentcity": "Manqasnah",
+   "region": 5,
+   "population": null,
+   "lat": 26.035,
+   "lng": 56.148611
+ },
+ {
+   "country": "ae",
+   "city": "marawah",
+   "Accentcity": "Marawah",
+   "region": 1,
+   "population": null,
+   "lat": 24.294566,
+   "lng": 53.330688
+ },
+ {
+   "country": "ae",
+   "city": "marbad",
+   "Accentcity": "Marbad",
+   "region": 4,
+   "population": null,
+   "lat": 25.325405,
+   "lng": 56.133112
+ },
+ {
+   "country": "ae",
+   "city": "marbah",
+   "Accentcity": "Marbah",
+   "region": 6,
+   "population": null,
+   "lat": 25.276233,
+   "lng": 56.362558
+ },
+ {
+   "country": "ae",
+   "city": "ma`rid",
+   "Accentcity": "Ma`rid",
+   "region": 5,
+   "population": null,
+   "lat": 25.810519,
+   "lng": 55.9647
+ },
+ {
+   "country": "ae",
+   "city": "mas`adi",
+   "Accentcity": "Mas`adi",
+   "region": 1,
+   "population": null,
+   "lat": 24.266272,
+   "lng": 55.741227
+ },
+ {
+   "country": "ae",
+   "city": "mashrub",
+   "Accentcity": "Mashrub",
+   "region": 1,
+   "population": null,
+   "lat": 23.076461,
+   "lng": 54.013474
+ },
+ {
+   "country": "ae",
+   "city": "mas'ud",
+   "Accentcity": "Mas'ud",
+   "region": 1,
+   "population": null,
+   "lat": 24.266272,
+   "lng": 55.741227
+ },
+ {
+   "country": "ae",
+   "city": "mausal",
+   "Accentcity": "Mausal",
+   "region": 1,
+   "population": null,
+   "lat": 23.013531,
+   "lng": 54.154475
+ },
+ {
+   "country": "ae",
+   "city": "mausil",
+   "Accentcity": "Mausil",
+   "region": 1,
+   "population": null,
+   "lat": 23.013531,
+   "lng": 54.154475
+ },
+ {
+   "country": "ae",
+   "city": "mawsal",
+   "Accentcity": "Mawsal",
+   "region": 1,
+   "population": null,
+   "lat": 23.013531,
+   "lng": 54.154475
+ },
+ {
+   "country": "ae",
+   "city": "ma`yarid",
+   "Accentcity": "Ma`yarid",
+   "region": 5,
+   "population": null,
+   "lat": 25.810519,
+   "lng": 55.9647
+ },
+ {
+   "country": "ae",
+   "city": "mezaira'a",
+   "Accentcity": "Mezaira'a",
+   "region": 1,
+   "population": null,
+   "lat": 23.143549,
+   "lng": 53.788097
+ },
+ {
+   "country": "ae",
+   "city": "milqata",
+   "Accentcity": "Milqata",
+   "region": 1,
+   "population": null,
+   "lat": 23.066667,
+   "lng": 53.533333
+ },
+ {
+   "country": "ae",
+   "city": "mirba",
+   "Accentcity": "Mirba",
+   "region": 6,
+   "population": null,
+   "lat": 25.276233,
+   "lng": 56.362558
+ },
+ {
+   "country": "ae",
+   "city": "mirbih",
+   "Accentcity": "Mirbih",
+   "region": 6,
+   "population": null,
+   "lat": 25.276233,
+   "lng": 56.362558
+ },
+ {
+   "country": "ae",
+   "city": "mirfah",
+   "Accentcity": "Mirfah",
+   "region": 1,
+   "population": null,
+   "lat": 24.099107,
+   "lng": 53.490769
+ },
+ {
+   "country": "ae",
+   "city": "mirfa",
+   "Accentcity": "Mirfa",
+   "region": 1,
+   "population": null,
+   "lat": 24.099107,
+   "lng": 53.490769
+ },
+ {
+   "country": "ae",
+   "city": "mizeir`ah",
+   "Accentcity": "Mizeir`ah",
+   "region": 1,
+   "population": null,
+   "lat": 23.143549,
+   "lng": 53.788097
+ },
+ {
+   "country": "ae",
+   "city": "mondafanah",
+   "Accentcity": "Mondafanah",
+   "region": 1,
+   "population": null,
+   "lat": 24.116667,
+   "lng": 55.8
+ },
+ {
+   "country": "ae",
+   "city": "mondafinah",
+   "Accentcity": "Mondafinah",
+   "region": 1,
+   "population": null,
+   "lat": 24.116667,
+   "lng": 55.8
+ },
+ {
+   "country": "ae",
+   "city": "mozayri`",
+   "Accentcity": "Mozayri`",
+   "region": 1,
+   "population": null,
+   "lat": 23.143549,
+   "lng": 53.788097
+ },
+ {
+   "country": "ae",
+   "city": "muaifi",
+   "Accentcity": "Muaifi",
+   "region": 6,
+   "population": null,
+   "lat": 25.361667,
+   "lng": 56.344722
+ },
+ {
+   "country": "ae",
+   "city": "mughairah",
+   "Accentcity": "Mughairah",
+   "region": 1,
+   "population": null,
+   "lat": 24.07843,
+   "lng": 53.53842
+ },
+ {
+   "country": "ae",
+   "city": "mughaira",
+   "Accentcity": "Mughaira",
+   "region": 1,
+   "population": null,
+   "lat": 24.07843,
+   "lng": 53.53842
+ },
+ {
+   "country": "ae",
+   "city": "mugharah",
+   "Accentcity": "Mugharah",
+   "region": 1,
+   "population": null,
+   "lat": 24.07843,
+   "lng": 53.53842
+ },
+ {
+   "country": "ae",
+   "city": "mughayrah",
+   "Accentcity": "Mughayrah",
+   "region": 1,
+   "population": null,
+   "lat": 24.07843,
+   "lng": 53.53842
+ },
+ {
+   "country": "ae",
+   "city": "muhtarqah",
+   "Accentcity": "Muhtarqah",
+   "region": 4,
+   "population": null,
+   "lat": 25.540918,
+   "lng": 56.130664
+ },
+ {
+   "country": "ae",
+   "city": "mukhtaraja",
+   "Accentcity": "Mukhtaraja",
+   "region": 4,
+   "population": null,
+   "lat": 25.540918,
+   "lng": 56.130664
+ },
+ {
+   "country": "ae",
+   "city": "mundafnah",
+   "Accentcity": "Mundafnah",
+   "region": 1,
+   "population": null,
+   "lat": 24.116667,
+   "lng": 55.8
+ },
+ {
+   "country": "ae",
+   "city": "murawwah",
+   "Accentcity": "Murawwah",
+   "region": 1,
+   "population": null,
+   "lat": 24.294566,
+   "lng": 53.330688
+ },
+ {
+   "country": "ae",
+   "city": "musafi",
+   "Accentcity": "Musafi",
+   "region": 5,
+   "population": null,
+   "lat": 25.301285,
+   "lng": 56.165306
+ },
+ {
+   "country": "ae",
+   "city": "musaifi",
+   "Accentcity": "Musaifi",
+   "region": 5,
+   "population": null,
+   "lat": 25.301285,
+   "lng": 56.165306
+ },
+ {
+   "country": "ae",
+   "city": "mushayrib",
+   "Accentcity": "Mushayrib",
+   "region": 1,
+   "population": null,
+   "lat": 23.076461,
+   "lng": 54.013474
+ },
+ {
+   "country": "ae",
+   "city": "musil",
+   "Accentcity": "Musil",
+   "region": 1,
+   "population": null,
+   "lat": 23.013531,
+   "lng": 54.154475
+ },
+ {
+   "country": "ae",
+   "city": "mutaradh",
+   "Accentcity": "Mutaradh",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "mu`tarad",
+   "Accentcity": "Mu`tarad",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "mutarad",
+   "Accentcity": "Mutarad",
+   "region": 1,
+   "population": null,
+   "lat": 24.218997,
+   "lng": 55.739888
+ },
+ {
+   "country": "ae",
+   "city": "muwafi",
+   "Accentcity": "Muwafi",
+   "region": 6,
+   "population": null,
+   "lat": 25.361667,
+   "lng": 56.344722
+ },
+ {
+   "country": "ae",
+   "city": "nadd shubayh",
+   "Accentcity": "Nadd Shubayh",
+   "region": 3,
+   "population": null,
+   "lat": 25.145833,
+   "lng": 55.334167
+ },
+ {
+   "country": "ae",
+   "city": "nad shibeih",
+   "Accentcity": "Nad Shibeih",
+   "region": 3,
+   "population": null,
+   "lat": 25.145833,
+   "lng": 55.334167
+ },
+ {
+   "country": "ae",
+   "city": "nahai",
+   "Accentcity": "Nahai",
+   "region": 6,
+   "population": null,
+   "lat": 25.270744,
+   "lng": 56.36242
+ },
+ {
+   "country": "ae",
+   "city": "nahawa",
+   "Accentcity": "Nahawa",
+   "region": 6,
+   "population": null,
+   "lat": 25.268233,
+   "lng": 56.280016
+ },
+ {
+   "country": "ae",
+   "city": "nashshash",
+   "Accentcity": "Nashshash",
+   "region": 1,
+   "population": null,
+   "lat": 23.081096,
+   "lng": 54.036351
+ },
+ {
+   "country": "ae",
+   "city": "naslah",
+   "Accentcity": "Naslah",
+   "region": 5,
+   "population": null,
+   "lat": 24.865864,
+   "lng": 56.260851
+ },
+ {
+   "country": "ae",
+   "city": "nasla",
+   "Accentcity": "Nasla",
+   "region": 5,
+   "population": null,
+   "lat": 24.865864,
+   "lng": 56.260851
+ },
+ {
+   "country": "ae",
+   "city": "nedaifi",
+   "Accentcity": "Nedaifi",
+   "region": 6,
+   "population": null,
+   "lat": 25.361667,
+   "lng": 56.344722
+ },
+ {
+   "country": "ae",
+   "city": "nefair",
+   "Accentcity": "Nefair",
+   "region": 1,
+   "population": null,
+   "lat": 23.103933,
+   "lng": 53.789186
+ },
+ {
+   "country": "ae",
+   "city": "nishash",
+   "Accentcity": "Nishash",
+   "region": 1,
+   "population": null,
+   "lat": 23.081096,
+   "lng": 54.036351
+ },
+ {
+   "country": "ae",
+   "city": "nuslah",
+   "Accentcity": "Nuslah",
+   "region": 5,
+   "population": null,
+   "lat": 24.865864,
+   "lng": 56.260851
+ },
+ {
+   "country": "ae",
+   "city": "'odaid",
+   "Accentcity": "'Odaid",
+   "region": 1,
+   "population": null,
+   "lat": 24.616667,
+   "lng": 51.4
+ },
+ {
+   "country": "ae",
+   "city": "palhain",
+   "Accentcity": "Palhain",
+   "region": 5,
+   "population": null,
+   "lat": 25.684119,
+   "lng": 55.967495
+ },
+ {
+   "country": "ae",
+   "city": "port khor fakkan",
+   "Accentcity": "Port Khor Fakkan",
+   "region": 6,
+   "population": null,
+   "lat": 25.331324,
+   "lng": 56.341993
+ },
+ {
+   "country": "ae",
+   "city": "qalba",
+   "Accentcity": "Qalba",
+   "region": 6,
+   "population": null,
+   "lat": 25.07462,
+   "lng": 56.355447
+ },
+ {
+   "country": "ae",
+   "city": "qamh",
+   "Accentcity": "Qamh",
+   "region": 3,
+   "population": null,
+   "lat": 24.786677,
+   "lng": 56.141429
+ },
+ {
+   "country": "ae",
+   "city": "qaraiyah",
+   "Accentcity": "Qaraiyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.23779,
+   "lng": 56.36128
+ },
+ {
+   "country": "ae",
+   "city": "qaraiyat",
+   "Accentcity": "Qaraiyat",
+   "region": 4,
+   "population": null,
+   "lat": 25.23779,
+   "lng": 56.36128
+ },
+ {
+   "country": "ae",
+   "city": "qarat ad dulm",
+   "Accentcity": "Qarat ad Dulm",
+   "region": 5,
+   "population": null,
+   "lat": 25.860278,
+   "lng": 56.025
+ },
+ {
+   "country": "ae",
+   "city": "qarat al dum",
+   "Accentcity": "Qarat al Dum",
+   "region": 5,
+   "population": null,
+   "lat": 25.860278,
+   "lng": 56.025
+ },
+ {
+   "country": "ae",
+   "city": "qarmadah",
+   "Accentcity": "Qarmadah",
+   "region": 1,
+   "population": null,
+   "lat": 23.119573,
+   "lng": 53.828551
+ },
+ {
+   "country": "ae",
+   "city": "qatarah",
+   "Accentcity": "Qatarah",
+   "region": 1,
+   "population": null,
+   "lat": 24.259929,
+   "lng": 55.755658
+ },
+ {
+   "country": "ae",
+   "city": "qatara",
+   "Accentcity": "Qatara",
+   "region": 1,
+   "population": null,
+   "lat": 24.259929,
+   "lng": 55.755658
+ },
+ {
+   "country": "ae",
+   "city": "qattara",
+   "Accentcity": "Qattara",
+   "region": 1,
+   "population": null,
+   "lat": 24.259929,
+   "lng": 55.755658
+ },
+ {
+   "country": "ae",
+   "city": "qatuf",
+   "Accentcity": "Qatuf",
+   "region": 1,
+   "population": null,
+   "lat": 23.109707,
+   "lng": 53.727378
+ },
+ {
+   "country": "ae",
+   "city": "qidfa",
+   "Accentcity": "Qidfa",
+   "region": 6,
+   "population": null,
+   "lat": 25.304259,
+   "lng": 56.370338
+ },
+ {
+   "country": "ae",
+   "city": "qidfi`",
+   "Accentcity": "Qidfi`",
+   "region": 6,
+   "population": null,
+   "lat": 25.304259,
+   "lng": 56.370338
+ },
+ {
+   "country": "ae",
+   "city": "qima",
+   "Accentcity": "Qima",
+   "region": 3,
+   "population": null,
+   "lat": 24.786677,
+   "lng": 56.141429
+ },
+ {
+   "country": "ae",
+   "city": "qimh",
+   "Accentcity": "Qimh",
+   "region": 3,
+   "population": null,
+   "lat": 24.786677,
+   "lng": 56.141429
+ },
+ {
+   "country": "ae",
+   "city": "quor",
+   "Accentcity": "Quor",
+   "region": 5,
+   "population": null,
+   "lat": 24.912136,
+   "lng": 56.095661
+ },
+ {
+   "country": "ae",
+   "city": "qurayyah",
+   "Accentcity": "Qurayyah",
+   "region": 4,
+   "population": null,
+   "lat": 25.23779,
+   "lng": 56.36128
+ },
+ {
+   "country": "ae",
+   "city": "qusaidat",
+   "Accentcity": "Qusaidat",
+   "region": 5,
+   "population": null,
+   "lat": 25.774612,
+   "lng": 55.970016
+ },
+ {
+   "country": "ae",
+   "city": "qutuf",
+   "Accentcity": "Qutuf",
+   "region": 1,
+   "population": null,
+   "lat": 23.102624,
+   "lng": 53.711588
+ },
+ {
+   "country": "ae",
+   "city": "ramla",
+   "Accentcity": "Ramla",
+   "region": 4,
+   "population": null,
+   "lat": 25.359789,
+   "lng": 56.044519
+ },
+ {
+   "country": "ae",
+   "city": "raml sabil",
+   "Accentcity": "Raml Sabil",
+   "region": 3,
+   "population": null,
+   "lat": 25.204083,
+   "lng": 55.287499
+ },
+ {
+   "country": "ae",
+   "city": "raml za`bil",
+   "Accentcity": "Raml Za`bil",
+   "region": 3,
+   "population": null,
+   "lat": 25.204083,
+   "lng": 55.287499
+ },
+ {
+   "country": "ae",
+   "city": "rams",
+   "Accentcity": "Rams",
+   "region": 5,
+   "population": null,
+   "lat": 25.876579,
+   "lng": 56.018619
+ },
+ {
+   "country": "ae",
+   "city": "ras al khaimah",
+   "Accentcity": "Ras al Khaimah",
+   "region": 5,
+   "population": null,
+   "lat": 25.789527,
+   "lng": 55.943196
+ },
+ {
+   "country": "ae",
+   "city": "ras al khaima",
+   "Accentcity": "Ras al Khaima",
+   "region": 5,
+   "population": null,
+   "lat": 25.789527,
+   "lng": 55.943196
+ },
+ {
+   "country": "ae",
+   "city": "ras dibba",
+   "Accentcity": "Ras Dibba",
+   "region": 4,
+   "population": null,
+   "lat": 25.605489,
+   "lng": 56.304998
+ },
+ {
+   "country": "ae",
+   "city": "rashdia",
+   "Accentcity": "Rashdia",
+   "region": 3,
+   "population": null,
+   "lat": 25.223647,
+   "lng": 55.388943
+ },
+ {
+   "country": "ae",
+   "city": "rashidiyah",
+   "Accentcity": "Rashidiyah",
+   "region": 3,
+   "population": null,
+   "lat": 25.223647,
+   "lng": 55.388943
+ },
+ {
+   "country": "ae",
+   "city": "righeilat",
+   "Accentcity": "Righeilat",
+   "region": 4,
+   "population": null,
+   "lat": 25.105516,
+   "lng": 56.356301
+ },
+ {
+   "country": "ae",
+   "city": "riyama",
+   "Accentcity": "Riyama",
+   "region": 4,
+   "population": null,
+   "lat": 25.545635,
+   "lng": 56.058359
+ },
+ {
+   "country": "ae",
+   "city": "rol dadnah",
+   "Accentcity": "Rol Dadnah",
+   "region": 4,
+   "population": null,
+   "lat": 25.554814,
+   "lng": 56.345455
+ },
+ {
+   "country": "ae",
+   "city": "rugheilat",
+   "Accentcity": "Rugheilat",
+   "region": 4,
+   "population": null,
+   "lat": 25.105516,
+   "lng": 56.356301
+ },
+ {
+   "country": "ae",
+   "city": "rul dabbah",
+   "Accentcity": "Rul Dabbah",
+   "region": 4,
+   "population": null,
+   "lat": 25.601056,
+   "lng": 56.322797
+ },
+ {
+   "country": "ae",
+   "city": "rul dadnah",
+   "Accentcity": "Rul Dadnah",
+   "region": 4,
+   "population": null,
+   "lat": 25.554814,
+   "lng": 56.345455
+ },
+ {
+   "country": "ae",
+   "city": "rul dhadna",
+   "Accentcity": "Rul Dhadna",
+   "region": 4,
+   "population": null,
+   "lat": 25.554814,
+   "lng": 56.345455
+ },
+ {
+   "country": "ae",
+   "city": "rul dibah",
+   "Accentcity": "Rul Dibah",
+   "region": 4,
+   "population": null,
+   "lat": 25.601056,
+   "lng": 56.322797
+ },
+ {
+   "country": "ae",
+   "city": "rul dibba",
+   "Accentcity": "Rul Dibba",
+   "region": 4,
+   "population": null,
+   "lat": 25.601056,
+   "lng": 56.322797
+ },
+ {
+   "country": "ae",
+   "city": "ruwais",
+   "Accentcity": "Ruwais",
+   "region": 1,
+   "population": null,
+   "lat": 24.110278,
+   "lng": 52.730556
+ },
+ {
+   "country": "ae",
+   "city": "sa`bah",
+   "Accentcity": "Sa`bah",
+   "region": 5,
+   "population": null,
+   "lat": 24.994167,
+   "lng": 56.025
+ },
+ {
+   "country": "ae",
+   "city": "sabakha",
+   "Accentcity": "Sabakha",
+   "region": 1,
+   "population": null,
+   "lat": 23.3,
+   "lng": 53.85
+ },
+ {
+   "country": "ae",
+   "city": "sabkha",
+   "Accentcity": "Sabkha",
+   "region": 1,
+   "population": null,
+   "lat": 23.129169,
+   "lng": 53.981808
+ },
+ {
+   "country": "ae",
+   "city": "sabukhah",
+   "Accentcity": "Sabukhah",
+   "region": 1,
+   "population": null,
+   "lat": 23.129169,
+   "lng": 53.981808
+ },
+ {
+   "country": "ae",
+   "city": "sahawat",
+   "Accentcity": "Sahawat",
+   "region": 5,
+   "population": null,
+   "lat": 25.966667,
+   "lng": 56.083333
+ },
+ {
+   "country": "ae",
+   "city": "sakamkam",
+   "Accentcity": "Sakamkam",
+   "region": 4,
+   "population": null,
+   "lat": 25.174666,
+   "lng": 56.330388
+ },
+ {
+   "country": "ae",
+   "city": "sal",
+   "Accentcity": "Sal",
+   "region": 5,
+   "population": null,
+   "lat": 25.936667,
+   "lng": 56.172222
+ },
+ {
+   "country": "ae",
+   "city": "shaam",
+   "Accentcity": "Shaam",
+   "region": 5,
+   "population": null,
+   "lat": 26.027895,
+   "lng": 56.083518
+ },
+ {
+   "country": "ae",
+   "city": "sha`m",
+   "Accentcity": "Sha`m",
+   "region": 5,
+   "population": null,
+   "lat": 26.027895,
+   "lng": 56.083518
+ },
+ {
+   "country": "ae",
+   "city": "sharam",
+   "Accentcity": "Sharam",
+   "region": 4,
+   "population": null,
+   "lat": 25.470778,
+   "lng": 56.353193
+ },
+ {
+   "country": "ae",
+   "city": "sharga",
+   "Accentcity": "Sharga",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "sharijah",
+   "Accentcity": "Sharijah",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "shariqah",
+   "Accentcity": "Shariqah",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "sharjah",
+   "Accentcity": "Sharjah",
+   "region": 6,
+   "population": 543942,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "sharja",
+   "Accentcity": "Sharja",
+   "region": 6,
+   "population": null,
+   "lat": 25.35731,
+   "lng": 55.403304
+ },
+ {
+   "country": "ae",
+   "city": "shauka",
+   "Accentcity": "Shauka",
+   "region": 5,
+   "population": null,
+   "lat": 25.1,
+   "lng": 56.033333
+ },
+ {
+   "country": "ae",
+   "city": "shib al gat",
+   "Accentcity": "Shib al Gat",
+   "region": 1,
+   "population": null,
+   "lat": 24.052778,
+   "lng": 55.719722
+ },
+ {
+   "country": "ae",
+   "city": "shimil",
+   "Accentcity": "Shimil",
+   "region": 5,
+   "population": null,
+   "lat": 25.817799,
+   "lng": 56.010876
+ },
+ {
+   "country": "ae",
+   "city": "shokah",
+   "Accentcity": "Shokah",
+   "region": 5,
+   "population": null,
+   "lat": 25.1,
+   "lng": 56.033333
+ },
+ {
+   "country": "ae",
+   "city": "shuways",
+   "Accentcity": "Shuways",
+   "region": 5,
+   "population": null,
+   "lat": 25.78102,
+   "lng": 55.978696
+ },
+ {
+   "country": "ae",
+   "city": "sram",
+   "Accentcity": "Sram",
+   "region": 4,
+   "population": null,
+   "lat": 25.498176,
+   "lng": 56.057156
+ },
+ {
+   "country": "ae",
+   "city": "sufad",
+   "Accentcity": "Sufad",
+   "region": 4,
+   "population": null,
+   "lat": 25.221646,
+   "lng": 56.323896
+ },
+ {
+   "country": "ae",
+   "city": "suheila",
+   "Accentcity": "Suheila",
+   "region": 2,
+   "population": null,
+   "lat": 24.803878,
+   "lng": 56.194487
+ },
+ {
+   "country": "ae",
+   "city": "sulaymat",
+   "Accentcity": "Sulaymat",
+   "region": 1,
+   "population": null,
+   "lat": 24.221944,
+   "lng": 55.603056
+ },
+ {
+   "country": "ae",
+   "city": "sumbrair",
+   "Accentcity": "Sumbrair",
+   "region": 4,
+   "population": null,
+   "lat": 25.600825,
+   "lng": 56.284401
+ },
+ {
+   "country": "ae",
+   "city": "taiyibah",
+   "Accentcity": "Taiyibah",
+   "region": 4,
+   "population": null,
+   "lat": 25.412279,
+   "lng": 56.170748
+ },
+ {
+   "country": "ae",
+   "city": "taraif",
+   "Accentcity": "Taraif",
+   "region": 1,
+   "population": null,
+   "lat": 24.053988,
+   "lng": 53.763468
+ },
+ {
+   "country": "ae",
+   "city": "tawian",
+   "Accentcity": "Tawian",
+   "region": 4,
+   "population": null,
+   "lat": 25.556755,
+   "lng": 56.076472
+ },
+ {
+   "country": "ae",
+   "city": "tawi as siji",
+   "Accentcity": "Tawi as Siji",
+   "region": 4,
+   "population": null,
+   "lat": 25.247638,
+   "lng": 56.077192
+ },
+ {
+   "country": "ae",
+   "city": "tawi siji",
+   "Accentcity": "Tawi Siji",
+   "region": 4,
+   "population": null,
+   "lat": 25.247638,
+   "lng": 56.077192
+ },
+ {
+   "country": "ae",
+   "city": "tayibah",
+   "Accentcity": "Tayibah",
+   "region": 4,
+   "population": null,
+   "lat": 25.412279,
+   "lng": 56.170748
+ },
+ {
+   "country": "ae",
+   "city": "tayiban",
+   "Accentcity": "Tayiban",
+   "region": 4,
+   "population": null,
+   "lat": 25.412279,
+   "lng": 56.170748
+ },
+ {
+   "country": "ae",
+   "city": "tayyibah",
+   "Accentcity": "Tayyibah",
+   "region": 4,
+   "population": null,
+   "lat": 25.412279,
+   "lng": 56.170748
+ },
+ {
+   "country": "ae",
+   "city": "tereg",
+   "Accentcity": "Tereg",
+   "region": 1,
+   "population": null,
+   "lat": 23.11656,
+   "lng": 53.606972
+ },
+ {
+   "country": "ae",
+   "city": "tharwaniyyah",
+   "Accentcity": "Tharwaniyyah",
+   "region": 1,
+   "population": null,
+   "lat": 23.110884,
+   "lng": 54.015715
+ },
+ {
+   "country": "ae",
+   "city": "tharwaniyya",
+   "Accentcity": "Tharwaniyya",
+   "region": 1,
+   "population": null,
+   "lat": 23.110884,
+   "lng": 54.015715
+ },
+ {
+   "country": "ae",
+   "city": "theeb",
+   "Accentcity": "Theeb",
+   "region": 4,
+   "population": null,
+   "lat": 25.245013,
+   "lng": 56.342062
+ },
+ {
+   "country": "ae",
+   "city": "thoban",
+   "Accentcity": "Thoban",
+   "region": 4,
+   "population": null,
+   "lat": 25.303319,
+   "lng": 56.027919
+ },
+ {
+   "country": "ae",
+   "city": "ud al beida",
+   "Accentcity": "Ud al Beida",
+   "region": 3,
+   "population": null,
+   "lat": 25.016249,
+   "lng": 55.455331
+ },
+ {
+   "country": "ae",
+   "city": "`ujman",
+   "Accentcity": "`Ujman",
+   "region": 2,
+   "population": null,
+   "lat": 25.406942,
+   "lng": 55.444126
+ },
+ {
+   "country": "ae",
+   "city": "um al quweim",
+   "Accentcity": "Um al Quweim",
+   "region": 7,
+   "population": null,
+   "lat": 25.56473,
+   "lng": 55.555166
+ },
+ {
+   "country": "ae",
+   "city": "umm al qaiwain",
+   "Accentcity": "Umm al Qaiwain",
+   "region": 7,
+   "population": null,
+   "lat": 25.56473,
+   "lng": 55.555166
+ },
+ {
+   "country": "ae",
+   "city": "umm al qawain",
+   "Accentcity": "Umm al Qawain",
+   "region": 7,
+   "population": null,
+   "lat": 25.56473,
+   "lng": 55.555166
+ },
+ {
+   "country": "ae",
+   "city": "umm as suqaym",
+   "Accentcity": "Umm as Suqaym",
+   "region": 3,
+   "population": null,
+   "lat": 25.150151,
+   "lng": 55.205866
+ },
+ {
+   "country": "ae",
+   "city": "umm grain",
+   "Accentcity": "Umm Grain",
+   "region": 1,
+   "population": null,
+   "lat": 23.1,
+   "lng": 53.716667
+ },
+ {
+   "country": "ae",
+   "city": "`umm qrein",
+   "Accentcity": "`Umm Qrein",
+   "region": 1,
+   "population": null,
+   "lat": 23.1,
+   "lng": 53.716667
+ },
+ {
+   "country": "ae",
+   "city": "`uyaynah",
+   "Accentcity": "`Uyaynah",
+   "region": 4,
+   "population": null,
+   "lat": 25.452828,
+   "lng": 56.16879
+ },
+ {
+   "country": "ae",
+   "city": "wa'abain",
+   "Accentcity": "Wa'abain",
+   "region": 4,
+   "population": null,
+   "lat": 25.57046,
+   "lng": 56.135356
+ },
+ {
+   "country": "ae",
+   "city": "waafit",
+   "Accentcity": "Waafit",
+   "region": 1,
+   "population": null,
+   "lat": 23.102624,
+   "lng": 53.711588
+ },
+ {
+   "country": "ae",
+   "city": "wafid",
+   "Accentcity": "Wafid",
+   "region": 1,
+   "population": null,
+   "lat": 23.102624,
+   "lng": 53.711588
+ },
+ {
+   "country": "ae",
+   "city": "wahala",
+   "Accentcity": "Wahala",
+   "region": 5,
+   "population": null,
+   "lat": 24.908972,
+   "lng": 56.303165
+ },
+ {
+   "country": "ae",
+   "city": "wedheil",
+   "Accentcity": "Wedheil",
+   "region": 1,
+   "population": null,
+   "lat": 23.047399,
+   "lng": 54.133321
+ },
+ {
+   "country": "ae",
+   "city": "wefid",
+   "Accentcity": "Wefid",
+   "region": 1,
+   "population": null,
+   "lat": 23.102624,
+   "lng": 53.711588
+ },
+ {
+   "country": "ae",
+   "city": "western mariyyah",
+   "Accentcity": "Western Mariyyah",
+   "region": 1,
+   "population": null,
+   "lat": 23.102651,
+   "lng": 53.581849
+ },
+ {
+   "country": "ae",
+   "city": "wudhayl",
+   "Accentcity": "Wudhayl",
+   "region": 1,
+   "population": null,
+   "lat": 23.047399,
+   "lng": 54.133321
+ },
+ {
+   "country": "ae",
+   "city": "yaif",
+   "Accentcity": "Yaif",
+   "region": 1,
+   "population": null,
+   "lat": 23.157861,
+   "lng": 53.777623
+ },
+ {
+   "country": "ae",
+   "city": "yalah",
+   "Accentcity": "Yalah",
+   "region": 4,
+   "population": null,
+   "lat": 25.415171,
+   "lng": 56.154957
+ },
+ {
+   "country": "ae",
+   "city": "yumul al quwain",
+   "Accentcity": "Yumul al Quwain",
+   "region": 7,
+   "population": null,
+   "lat": 25.56473,
+   "lng": 55.555166
+ },
+ {
+   "country": "ae",
+   "city": "zayah",
+   "Accentcity": "Zayah",
+   "region": 5,
+   "population": null,
+   "lat": 25.887843,
+   "lng": 56.058239
+ },
+ {
+   "country": "ae",
+   "city": "zubara",
+   "Accentcity": "Zubara",
+   "region": 4,
+   "population": null,
+   "lat": 25.404867,
+   "lng": 56.359707
+ },
+ {
+   "country": "ae",
+   "city": "zuweihir",
+   "Accentcity": "Zuweihir",
+   "region": 1,
+   "population": null,
+   "lat": 23.139159,
+   "lng": 53.693403
+ }
+]
